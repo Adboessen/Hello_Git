@@ -5,6 +5,12 @@ b =6
 # how to make a list
 myList = [1,2,3,45,3,2]
 
+#while loop
+x = 0
+while(x < 5):
+        x += 1
+        print("x = " + str(x))
+
 # how to stride
 print(myList[0:6:2]) # print from index 0 - 6 by twos
 
